@@ -149,7 +149,7 @@
   "text.autoconfig.frostiful.option.combatConfig.packedSnowballVulnerableTypesDamage": "弱点を持つ対象への固まった雪玉のダメージ",
   "text.autoconfig.frostiful.option.combatConfig.polarBearShearingDamage": "毛を刈るときのシロクマのダメージ",
   "text.autoconfig.frostiful.option.combatConfig.frostologerPassiveFreezingPerTick": "氷魔道士のティック毎の受動凍結値",
-  "text.autoconfig.frostiful.option.combatConfig.frostologerMaxPassiveFreezing": "氷魔道士の最大常時凍結% (0-1)",
+  "text.autoconfig.frostiful.option.combatConfig.frostologerMaxPassiveFreezing": "氷魔道士の最大常時凍結パーセント (0-1)",
   "text.autoconfig.frostiful.option.combatConfig.biterFrostBiteMaxAmplifier": "最大凍傷値の最大増幅値 (包含的)",
 
   "text.autoconfig.frostiful.option.freezingConfig": "凍結の設定",
